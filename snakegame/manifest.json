@@ -1,0 +1,16 @@
+{
+    "name": "REPLACE WITH YOUR PROJECT NAME",
+    "short_name": "REPLACE WITH YOUR PROJECT NAME",
+    "description": "REPLACE WITH YOUR PROJECT DEscription",
+    "icons": [
+      {
+        "sizes": "228x228",
+        "type": "image/png",
+        "src": "REPLACE THIS WITH YOUR LOGO URL FROM ASSETS"
+      }
+    ],
+    "display": "standalone",
+    "background_color": "blue",
+    "theme_color": "lightblue",
+    "start_url": "index.html"
+  }
